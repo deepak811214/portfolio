@@ -1,4 +1,4 @@
-•A passionate UI/ Frontend Web App Developer with 7+ years of experience on Angular, React, React Native, AngularJs, JavaScript, ES6, Typescript, JQuery, Bootstrap, HTML5, CSS3, Data Structures, Algorithm
+•A passionate UI/ Frontend Web App Developer with experience on Angular, React, React Native, AngularJs, JavaScript, ES6, Typescript, JQuery, Bootstrap, HTML5, CSS3, Data Structures, Algorithm
 
 •	Got IBM Spark Award and IBM Eminence Excellence Award continuously 2 years in 2013,  2014. 
 
