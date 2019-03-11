@@ -1,4 +1,4 @@
-•	A passionate web developer with 7+ years of professional experience on building web applications. Specialties Client side UI technology (AngularJs, JavaScript,  Jquery , RxJs, Bootstrap, Typescript, IntroJs, HTML5, CSS3, SCSS)  and Embedded System (Arduino Uno, Wifi module ESP 8266).
+•A passionate UI/ Frontend Web App Developer with 7+ years of experience on Angular, React, React Native, AngularJs, JavaScript, ES6, Typescript, JQuery, Bootstrap, HTML5, CSS3, Data Structures, Algorithm
 
 •	Got IBM Spark Award and IBM Eminence Excellence Award continuously 2 years in 2013,  2014. 
 
